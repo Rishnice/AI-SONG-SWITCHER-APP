@@ -1,0 +1,33 @@
+body 
+{
+    background-size: cover;
+}
+
+.title
+{
+    font-size: 20px;
+    width: 90%;
+    margin: 0px;
+}
+
+.instructions
+{
+    color: black;
+    font-size: 15px;
+}
+
+.song_name 
+{
+    width: 10%;
+    margin: 0px;
+    border-radius: 20px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+
+canvas 
+{
+    border: 10px solid royalblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
